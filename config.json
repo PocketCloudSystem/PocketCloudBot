@@ -1,0 +1,8 @@
+{
+  "bot_token": "your_bot_token",
+  "http": {
+    "host": "127.0.0.1",
+    "port": 8000,
+    "auth_key": "your_auth_key"
+  }
+}
